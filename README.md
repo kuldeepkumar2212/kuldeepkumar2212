@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm kuldeep kumar raju k</h1>
 <h3 align="center">A passionate graduate exploring in technology</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/kuldeepkumar2212/](https://github.com/kuldeepkumar2212/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/kuldeepkumar2212/)
 
 - 📫 How to reach me **kuldeepkumarraju2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1990ThnX5-TmlmeYUC2xcqrw9nbrrAa23/view?usp=sharing](https://drive.google.com/file/d/1990ThnX5-TmlmeYUC2xcqrw9nbrrAa23/view?usp=sharing)
+- 📄 Know about my experiences on my [Resume](https://drive.google.com/file/d/1990ThnX5-TmlmeYUC2xcqrw9nbrrAa23/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
